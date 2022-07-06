@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HectorAlviarez
-- 👀 I’m interested in learn
+- 👀 I’m interested in learn and enjoy
 - 🌱 I’m currently learning Fullstack
 - 📫 How to reach me alviarezhector2@gmail.com
 
