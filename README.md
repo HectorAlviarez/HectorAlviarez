@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HectorAlviarez
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning Fullstak
+- 🌱 I’m currently learning Fullstack
 - 📫 How to reach me alviarezhector2@gmail.com
 
 <!---
